@@ -22,7 +22,7 @@ When you put more than maximum letters or characters in the “Name” field it�
 
 4. Go to https://www.globalsqa.com/angularJs-protractor/BankingProject/#/customer
 
-Select the last account created in the list.
+5. Select the last account created in the list.
 
 **Expected result:**
 
