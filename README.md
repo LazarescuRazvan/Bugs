@@ -4,7 +4,7 @@ Below are some Bugs raports that I wrote while working on previous projects.
 
 ------
 
-**Priority & Severity**
+**Priority & Severity:**
 
 P1 - High
 
