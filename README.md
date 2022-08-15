@@ -95,4 +95,36 @@ Image error are displayed when you use the coffee calculator.
 
 https://user-images.githubusercontent.com/102883633/184676216-7635ac79-4e45-4716-9215-7ec1c4980dc3.mp4
 
+------
+
+
+**Priority & Severity:**
+
+P1 - High
+
+**Description:**
+
+When you try to access the “Menu” button in mobile mode it’s so difficult because we have another button(“Help“ button) that overlap with “Menu button”. 
+
+**Steps to reproduce:**
+
+1. Go to https://fieni.ro/ 
+
+2. Go to Responsive Mode
+
+3. Select Mobile Mode
+
+4. Try to access “Menu button“
+
+**Expected result:**
+
+“Menu“ button should be accessed easily without overlap with another button.
+
+**Actual result:**
+
+“Menu” button it’s not accessibile in the entire “Menu” area ,when you try to click the “Menu” icon it’s possible to open “Help” menu because it’s overlap with “Menu” button.
+
+
+https://user-images.githubusercontent.com/102883633/184677091-67ffef5c-cf13-48a6-80e2-0debdd6dc97c.mp4
+
 
