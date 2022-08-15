@@ -14,15 +14,13 @@ When you put more than maximum letters or characters in the “Name” field it�
 
 **Steps to reproduce:**
 
-Go to XYZ Bank .
+1. Go to https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager
 
-Go toXYZ Bank .
+2. Go to  https://www.globalsqa.com/angularJs-protractor/BankingProject/#/manager/addCust
 
-Go toXYZ Bank .
+3. Write more than 30 characters in the “Name” field.
 
-Write more than 30 characters in the “Name” field.
-
-Go to XYZ Bank .
+4. Go to https://www.globalsqa.com/angularJs-protractor/BankingProject/#/customer
 
 Select the last account created in the list.
 
