@@ -63,3 +63,36 @@ Content it’s not displayed complete and console isn’t clear.
 
 ------
 
+**Description:**
+
+**Priority & Severity:**
+
+P6 - Medium
+
+**Description:**
+
+When you use the coffee calculator, we have an image error in the right middle of the page. She stay right  there even when I’m gonna use the cigarette calculator and I have exceeded the daily maximum intake ,after i use firstly coffee calculator.
+
+**Steps to reproduce:**
+
+1. Go to https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/
+
+2. Try firstly coffee calculator
+
+3. Look in the right middle of the page
+
+4. Try cigarette calculator until you have exceeded the daily maximum intake
+
+**Expected result:**
+
+When you use coffee calculator you don’t want to see any image error or another visual bugs.
+
+**Actual result:**
+
+Image error are displayed when you use the coffee calculator.
+
+
+
+https://user-images.githubusercontent.com/102883633/184676216-7635ac79-4e45-4716-9215-7ec1c4980dc3.mp4
+
+
