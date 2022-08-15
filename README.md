@@ -154,5 +154,5 @@ The content of the navigation must remain fixed and not overlap with the rest of
 
 The content of the navigation overlap with the rest of the page and make a visual bug.
 
-https://user-images.githubusercontent.com/102883633/184677747-f6820d20-fe6b-4b49-8baa-f8cb5144e1d6.png
+![STORE (1)](https://user-images.githubusercontent.com/102883633/184677905-a34186ae-7696-425d-a68a-6949594f450d.png)
 
