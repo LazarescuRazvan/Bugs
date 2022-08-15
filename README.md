@@ -127,4 +127,32 @@ When you try to access the “Menu” button in mobile mode it’s so difficult 
 
 https://user-images.githubusercontent.com/102883633/184677091-67ffef5c-cf13-48a6-80e2-0debdd6dc97c.mp4
 
+------
+
+
+**Priority & Severity:**
+
+P3 - High
+
+**Description:**
+
+When you select “cart” section on a phone,our navbar overlap with page content.
+
+**Steps to reproduce:**
+
+1. Go to https://www.demoblaze.com/cart.html
+
+2. Go to Responsive Mode
+
+3. Select Mobile Mode
+
+**Expected result:**
+
+The content of the navigation must remain fixed and not overlap with the rest of the page.
+
+**Actual result:**
+
+The content of the navigation overlap with the rest of the page and make a visual bug.
+
+https://user-images.githubusercontent.com/102883633/184677747-f6820d20-fe6b-4b49-8baa-f8cb5144e1d6.png
 
