@@ -59,5 +59,7 @@ Console should be clear without errors and text. Content should be displayed com
 
 Content it’s not displayed complete and console isn’t clear.
 
+![Desktop-screenshot (1) (2)](https://user-images.githubusercontent.com/102883633/184675781-8da1a59d-8bb9-4a75-80c5-e14fe2b91db7.png)
+
 ------
 
